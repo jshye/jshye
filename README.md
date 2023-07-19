@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on **Computer Vision Projects**.
 - 🌱 I’m currently learning **AI and Algorithms**.
+- 📫 How to reach me:
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamseonghye@gmail.com)](mailto:iamseonghye@gmail.com)
 
 <!--
 **jshye/jshye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
